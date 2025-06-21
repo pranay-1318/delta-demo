@@ -1,2 +1,2 @@
 # delta-demo
-pranay katekhaye
+pranay katekhaye.
